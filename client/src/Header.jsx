@@ -63,7 +63,7 @@ export default function Header() {
       <header className="flex justify-between">
         <Link to={"/"} className="flex gap-1">
           <motion.div className="logo_wrapper" variants={header}>
-            hike<span>n</span>rides
+            hitchhub
           </motion.div>
         </Link>
 

@@ -1,5 +1,5 @@
 .find__cars-left {
-    background: linear-gradient(rgba(249, 200, 38, 0.9), rgba(253, 177, 55, 0.9)),
+  background: linear-gradient(90deg, rgba(9,46,121,1) 15%, rgba(0,183,255,1) 100%),
       url("./assets/car_sharing.jpg");
     background-position: center;
     background-repeat: no-repeat;

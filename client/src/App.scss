@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 $light_green:#effffa;
-$dark_green:#771c00;
+$dark_green:#007777;
 $black:#000000;
 $white:#fff;
 .dflex{
@@ -30,9 +30,7 @@ header{
   .logo_wrapper{
     font-size:32px;
     font-weight: 600;
-    span{
-      color:$dark_green;
-    }
+    color: #fff
   }
   .menu_container{
     @extend .dflex;
@@ -415,9 +413,6 @@ select {
     .logo_wrapper{
       font-size:21px;
       font-weight: 600;
-      span{
-        color:$dark_green;
-      }
     }
     .menu_container{
       @extend .dflex;
